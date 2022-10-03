@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/asignaturas/</loc>
+    <loc>https://casir.netlify.app/asignaturas/</loc>
     <lastmod>2022-09-30T09:06:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/contacto/</loc>
+    <loc>https://casir.netlify.app/contacto/</loc>
     <lastmod>2022-09-30T08:48:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://casir.netlify.app/</loc>
     <lastmod>2022-09-27T14:10:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://casir.netlify.app/posts/my-first-post/</loc>
     <lastmod>2022-09-27T14:10:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://casir.netlify.app/posts/</loc>
     <lastmod>2022-09-27T14:10:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://casir.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://casir.netlify.app/tags/</loc>
   </url>
   
 </urlset>

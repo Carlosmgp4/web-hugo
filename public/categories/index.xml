@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Blog Carlos</title>
-    <link>http://example.org/categories/</link>
+    <link>https://casir.netlify.app/categories/</link>
     <description>Recent content in Categories on Blog Carlos</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://casir.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
