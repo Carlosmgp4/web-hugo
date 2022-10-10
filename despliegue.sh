@@ -1,22 +1,22 @@
 #!/bin/sh
 
 
-# Primero generamos el html
+# Generar html
 
 hugo -D
 
-#Primero subimos los cambios hechos a nuestro repositorio principal (el contenido de public está añadido a .gitignore):
+#Subimos los cambios al repositior principal
 
 git add .
 git commit -am "Cambios"
 git push
 
-#Una vez subido, copiamos los archivos generados de public a nuestro repositorio secundario:
+#Copiamos los archivos estaticos generados al repositotio externo previamente creado, antes nos aseguramos que ningun archivo existente nos hace fallar el despliegue
 
 rm -rf ../hugo-static/*
 cp -R public/* ../hugo-static/
 
-#Ahora nos movemos a ese directorio y subimos los cambios a nuestro github
+#Subimos los cambios del respositio externo
 
 cd ../hugo-static
 git add .
